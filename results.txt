@@ -1,0 +1,2 @@
+{'Accuracy': 0.43876882776686316, 'Model_Name': 'KNN', 'HyperParameters': 'n_neighbor:48, metric:manhattan, n_feature:5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.41453831041257366, 'Model_Name': 'KNN', 'HyperParameters': 'n_neighbor:45, metric:euclidean, n_feature:2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
