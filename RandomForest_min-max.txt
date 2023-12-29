@@ -1,0 +1,16 @@
+{'Accuracy': 0.3182711198428291, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: entropy, max_depth:5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.3241650294695481, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.3837590045841519, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: entropy, max_depth:5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.4014407334643091, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: entropy, max_depth:5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.40078585461689586, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:10', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.4204322200392927, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:10', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.43222003929273084, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:10', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.4610347085789129, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:10', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.48330058939096265, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:10', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.4950884086444008, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:10', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.49705304518664045, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:10', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5160445317616241, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:20', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5140798952193845, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:10', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5311067452521283, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:10', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5114603798297315, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: entropy, max_depth:15', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5330713817943681, 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:10', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
