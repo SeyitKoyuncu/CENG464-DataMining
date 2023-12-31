@@ -1,0 +1,1 @@
+{'Accuracy': 62.344466273739364, 'Model_Name': 'PyTorch', 'HyperParameters': 'Model: PyTorch Best Epoch: 3571 | Best Loss: 1.07111 | Best Acc: 62.34%  with MutualInformationFeatureElimination, min-max,CrossEntropyLoss, len = 68 and Adam, lr = 0.001', 'FeatureEliminationMethod': 'MutualInformationFeatureElimination'}

@@ -1,0 +1,9 @@
+{'Accuracy': 0.2577176552202567, 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.2577176552202567, 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.2587582379465834, 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = elasticnet', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.25806451612903225, 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.2577176552202567, 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.2542490461325009, 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.25806451612903225, 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = elasticnet', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.2542490461325009, 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = elasticnet', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.2577176552202567, 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
