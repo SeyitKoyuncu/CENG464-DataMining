@@ -1,0 +1,1 @@
+{'Accuracy': 34.99826569545612, 'Model_Name': 'PyTorch', 'HyperParameters': 'Model: PyTorch Best Epoch: 44 | Best Loss: 1.33880 | Best Acc: 35.00%  with RFEFeatureElimination, min-max,CrossEntropyLoss, len = 70 and Adam, lr = 0.03', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
