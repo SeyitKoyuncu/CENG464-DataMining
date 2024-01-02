@@ -1,0 +1,210 @@
+{'Accuracy': 0.6033916849015317, 'F1': 0.4630265041175894, 'Recall': 0.5568927789934355, 'Precision': 0.631592875709278, 'Mcc': 0.1505140739844363, 'Auc_score': 0.5448288220043701, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 0., 1., 0.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.600109409190372, 'F1': 0.578403744657853, 'Recall': 0.600109409190372, 'Precision': 0.6276219581665302, 'Mcc': 0.2269506415167498, 'Auc_score': 0.6033290239172592, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 0., 1., 0.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = elasticnet', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6187089715536105, 'F1': 0.3413874346819856, 'Recall': 0.49781181619256015, 'Precision': 0.671385958609578, 'Mcc': 0.06822650395027403, 'Auc_score': 0.5074547333455474, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 1., 1., 1.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5557986870897156, 'F1': 0.36416018257854577, 'Recall': 0.5273522975929978, 'Precision': 0.27810044577661375, 'Mcc': 0.0, 'Auc_score': 0.5, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 1., 1., 1.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5678336980306345, 'F1': 0.33090485955823934, 'Recall': 0.49781181619256015, 'Precision': 0.2478166043409353, 'Mcc': 0.0, 'Auc_score': 0.5, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 1., 1., 1.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6559080962800875, 'F1': 0.5281080032069316, 'Recall': 0.5820568927789934, 'Precision': 0.6252959075729876, 'Mcc': 0.18912944720028982, 'Auc_score': 0.5688193914230614, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 0., 1., 0.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6055798687089715, 'F1': 0.49982970354653555, 'Recall': 0.5689277899343544, 'Precision': 0.6585472326475926, 'Mcc': 0.2111838678547938, 'Auc_score': 0.5726244343891402, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 0., 1., 0.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6608315098468271, 'F1': 0.43721010481714906, 'Recall': 0.5399343544857768, 'Precision': 0.614571722585398, 'Mcc': 0.12203393479304059, 'Auc_score': 0.5307583339619953, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 0., 0., 0.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5683807439824945, 'F1': 0.4396801129675213, 'Recall': 0.5289934354485777, 'Precision': 0.6556211474888081, 'Mcc': 0.1739667884425123, 'Auc_score': 0.5567315727293685, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 1., 0., 0.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5793216630196937, 'F1': 0.4499055259617989, 'Recall': 0.5426695842450766, 'Precision': 0.6246848295587505, 'Mcc': 0.1430306821457497, 'Auc_score': 0.5402577270224329, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 0., 0., 0.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7056892778993435, 'F1': 0.3134704562876157, 'Recall': 0.48194748358862144, 'Precision': 0.23227337693740455, 'Mcc': 0.0, 'Auc_score': 0.5, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 1., 1., 1.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5733041575492341, 'F1': 0.5163043844994952, 'Recall': 0.5733041575492341, 'Precision': 0.6421415744781631, 'Mcc': 0.2059212086042856, 'Auc_score': 0.5732361320596614, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 0., 1., 0.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = elasticnet', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6816192560175055, 'F1': 0.6808198339389812, 'Recall': 0.6816192560175055, 'Precision': 0.6823905740888522, 'Mcc': 0.3632940313948452, 'Auc_score': 0.6876639759934955, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 1., 1., 1.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = elasticnet', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6849015317286652, 'F1': 0.6733042718790019, 'Recall': 0.6849015317286652, 'Precision': 0.7010216905615556, 'Mcc': 0.3777290162882943, 'Auc_score': 0.6799384316889503, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 1., 1., 1.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = elasticnet', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5831509846827133, 'F1': 0.33090485955823934, 'Recall': 0.49781181619256015, 'Precision': 0.2478166043409353, 'Mcc': 0.0, 'Auc_score': 0.5, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 1., 1., 1.]), 'Model_Name': 'StockGradientDescent', 'HyperParameters': 'best_max_iter: 1000, loss:squared_error, best_penalty = l1', 'FeatureEliminationMethod': 'RFEFeatureElimination'}

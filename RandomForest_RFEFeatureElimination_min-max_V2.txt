@@ -1,0 +1,210 @@
+{'Accuracy': 0.8075422626788037, 'F1': 0.800525789712703, 'Recall': 0.7988729952319029, 'Precision': 0.803875470073129, 'Mcc': 0.7323115018983326, 'Auc_score': 0, 'y_true':        Q16
+0        0
+3        2
+8        0
+10       0
+14       0
+...    ...
+11513    3
+11516    3
+11519    3
+11524    3
+11530    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.22, 0.  , 0.62, ..., 0.  , 0.  , 0.06]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:30 fetaure len = 70', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.8075422626788037, 'F1': 0.7999727129395563, 'Recall': 0.7988729952319029, 'Precision': 0.8020611721182981, 'Mcc': 0.7317888056027103, 'Auc_score': 0, 'y_true':        Q16
+12       1
+17       0
+20       2
+23       1
+30       0
+...    ...
+11492    3
+11501    3
+11503    3
+11518    3
+11527    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.4 , 0.32, 0.03, ..., 0.  , 0.01, 0.  ]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:35 fetaure len = 70', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.8104943625325238, 'F1': 0.8019498953506505, 'Recall': 0.8018213356461406, 'Precision': 0.8038851349300083, 'Mcc': 0.7363531587902827, 'Auc_score': 0, 'y_true':        Q16
+15       0
+26       1
+27       0
+28       0
+34       1
+...    ...
+11521    3
+11522    3
+11525    3
+11528    3
+11531    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.13, 0.39, 0.41, ..., 0.  , 0.02, 0.33]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:35 fetaure len = 70', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.800520381613183, 'F1': 0.7994245368361506, 'Recall': 0.7983521248915871, 'Precision': 0.8011393790085388, 'Mcc': 0.731309524944516, 'Auc_score': 0, 'y_true':        Q16
+2        0
+6        0
+7        0
+18       0
+22       0
+...    ...
+11495    3
+11507    3
+11508    3
+11523    3
+11526    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.26, 0.05, 0.11, ..., 0.  , 0.  , 0.03]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:30 fetaure len = 70', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.810928013876843, 'F1': 0.8065631877260216, 'Recall': 0.8052905464006939, 'Precision': 0.8084039436039396, 'Mcc': 0.7405089295122156, 'Auc_score': 0, 'y_true':        Q16
+1        3
+4        3
+5        1
+9        0
+11       3
+...    ...
+11514    3
+11515    3
+11517    3
+11520    3
+11529    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.25, 0.05, 0.62, ..., 0.04, 0.01, 0.08]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: entropy, max_depth:30 fetaure len = 70', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.8027741655830082, 'F1': 0.8003314316893305, 'Recall': 0.7988729952319029, 'Precision': 0.8029616813415787, 'Mcc': 0.7321619051538358, 'Auc_score': 0, 'y_true':        Q16
+0        0
+3        2
+8        0
+10       0
+14       0
+...    ...
+11513    3
+11516    3
+11519    3
+11524    3
+11530    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.19, 0.  , 0.52, ..., 0.  , 0.  , 0.06]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:25 fetaure len = 71', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.8058084091894235, 'F1': 0.798630605308825, 'Recall': 0.7971391417425228, 'Precision': 0.8014857777604324, 'Mcc': 0.7296897463749054, 'Auc_score': 0, 'y_true':        Q16
+12       1
+17       0
+20       2
+23       1
+30       0
+...    ...
+11492    3
+11501    3
+11503    3
+11518    3
+11527    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.42, 0.4 , 0.04, ..., 0.  , 0.  , 0.  ]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:45 fetaure len = 71', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.8078924544666088, 'F1': 0.8046182881046082, 'Recall': 0.8044232437120555, 'Precision': 0.8063431080027208, 'Mcc': 0.7397409893940876, 'Auc_score': 0, 'y_true':        Q16
+15       0
+26       1
+27       0
+28       0
+34       1
+...    ...
+11521    3
+11522    3
+11525    3
+11528    3
+11531    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.14, 0.45, 0.41, ..., 0.  , 0.01, 0.29]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:45 fetaure len = 71', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.8044232437120555, 'F1': 0.8007398005927159, 'Recall': 0.8000867302688638, 'Precision': 0.8025703555398136, 'Mcc': 0.733788124206478, 'Auc_score': 0, 'y_true':        Q16
+2        0
+6        0
+7        0
+18       0
+22       0
+...    ...
+11495    3
+11507    3
+11508    3
+11523    3
+11526    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.17, 0.08, 0.2 , ..., 0.  , 0.  , 0.04]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:35 fetaure len = 71', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.810928013876843, 'F1': 0.8050464337448806, 'Recall': 0.8035559410234172, 'Precision': 0.8073007673769278, 'Mcc': 0.7382406722848367, 'Auc_score': 0, 'y_true':        Q16
+1        3
+4        3
+5        1
+9        0
+11       3
+...    ...
+11514    3
+11515    3
+11517    3
+11520    3
+11529    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.28, 0.06, 0.59, ..., 0.07, 0.  , 0.02]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:30 fetaure len = 71', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.8053749458170785, 'F1': 0.7970904939696181, 'Recall': 0.7949718248807975, 'Precision': 0.8009814805326461, 'Mcc': 0.7271285971745196, 'Auc_score': 0, 'y_true':        Q16
+0        0
+3        2
+8        0
+10       0
+14       0
+...    ...
+11513    3
+11516    3
+11519    3
+11524    3
+11530    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.15, 0.  , 0.51, ..., 0.  , 0.01, 0.06]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: entropy, max_depth:30 fetaure len = 72', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.8079757260511486, 'F1': 0.8011227447221432, 'Recall': 0.7997399219765929, 'Precision': 0.8038953665254908, 'Mcc': 0.7331659760819611, 'Auc_score': 0, 'y_true':        Q16
+12       1
+17       0
+20       2
+23       1
+30       0
+...    ...
+11492    3
+11501    3
+11503    3
+11518    3
+11527    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.5 , 0.28, 0.12, ..., 0.  , 0.  , 0.  ]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:45 fetaure len = 72', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.808326105810928, 'F1': 0.8066213050837456, 'Recall': 0.8065915004336514, 'Precision': 0.8085400650894472, 'Mcc': 0.7427571024792551, 'Auc_score': 0, 'y_true':        Q16
+15       0
+26       1
+27       0
+28       0
+34       1
+...    ...
+11521    3
+11522    3
+11525    3
+11528    3
+11531    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.15, 0.41, 0.35, ..., 0.  , 0.  , 0.3 ]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:35 fetaure len = 72', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7996530789245446, 'F1': 0.7985200760107919, 'Recall': 0.7974848222029488, 'Precision': 0.8005197222619969, 'Mcc': 0.7302601106805999, 'Auc_score': 0, 'y_true':        Q16
+2        0
+6        0
+7        0
+18       0
+22       0
+...    ...
+11495    3
+11507    3
+11508    3
+11523    3
+11526    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.31, 0.11, 0.15, ..., 0.  , 0.  , 0.02]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: gini, max_depth:30 fetaure len = 72', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.8100607111882047, 'F1': 0.8009395383275257, 'Recall': 0.7996530789245446, 'Precision': 0.8027835251740314, 'Mcc': 0.7330061314207951, 'Auc_score': 0, 'y_true':        Q16
+1        3
+4        3
+5        1
+9        0
+11       3
+...    ...
+11514    3
+11515    3
+11517    3
+11520    3
+11529    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.24, 0.05, 0.57, ..., 0.06, 0.  , 0.05]), 'Model_Name': 'RandomForest', 'HyperParameters': 'best_criterion: entropy, max_depth:30 fetaure len = 72', 'FeatureEliminationMethod': 'RFEFeatureElimination'}

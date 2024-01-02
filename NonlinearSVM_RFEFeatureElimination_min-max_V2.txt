@@ -1,0 +1,75 @@
+{'Accuracy': 0.3658430862592111, 'F1': 0.19803911385957934, 'Recall': 0.2483745123537061, 'Precision': 0.21373878425633228, 'Mcc': -0.002516588783388125, 'Auc_score': 0, 'y_true':        Q16
+0        0
+3        2
+8        0
+10       0
+14       0
+...    ...
+11513    3
+11516    3
+11519    3
+11524    3
+11530    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.22125933, 0.22141096, 0.22166471, ..., 0.27298837, 0.24484492,
+       0.26693908]), 'Model_Name': 'SVM', 'HyperParameters': 'best_function: rbf', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.36757693974859124, 'F1': 0.21466979605572026, 'Recall': 0.24577373211963588, 'Precision': 0.3082085363457395, 'Mcc': -0.001878935501201203, 'Auc_score': 0, 'y_true':        Q16
+12       1
+17       0
+20       2
+23       1
+30       0
+...    ...
+11492    3
+11501    3
+11503    3
+11518    3
+11527    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.29898241, 0.29839295, 0.29803796, ..., 0.28048946, 0.26866436,
+       0.2328373 ]), 'Model_Name': 'SVM', 'HyperParameters': 'best_function: rbf', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.3668690372940156, 'F1': 0.2189995756150785, 'Recall': 0.2697311361665221, 'Precision': 0.350880036503318, 'Mcc': 0.034292425064407606, 'Auc_score': 0, 'y_true':        Q16
+15       0
+26       1
+27       0
+28       0
+34       1
+...    ...
+11521    3
+11522    3
+11525    3
+11528    3
+11531    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.28526257, 0.28475357, 0.28470642, ..., 0.21483255, 0.26962771,
+       0.28145407]), 'Model_Name': 'SVM', 'HyperParameters': 'best_function: rbf', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.3690372940156115, 'F1': 0.20399970991216698, 'Recall': 0.2580225498699046, 'Precision': 0.2889252341914175, 'Mcc': 0.013914348258500195, 'Auc_score': 0, 'y_true':        Q16
+2        0
+6        0
+7        0
+18       0
+22       0
+...    ...
+11495    3
+11507    3
+11508    3
+11523    3
+11526    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.23688654, 0.23700774, 0.23703801, ..., 0.24017724, 0.24297045,
+       0.24436553]), 'Model_Name': 'SVM', 'HyperParameters': 'best_function: rbf', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.3746747614917606, 'F1': 0.2086027119636104, 'Recall': 0.25498699045967044, 'Precision': 0.31551730443353926, 'Mcc': 0.016236626558511248, 'Auc_score': 0, 'y_true':        Q16
+1        3
+4        3
+5        1
+9        0
+11       3
+...    ...
+11514    3
+11515    3
+11517    3
+11520    3
+11529    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.23345294, 0.23357026, 0.23360992, ..., 0.21703163, 0.21813205,
+       0.23787408]), 'Model_Name': 'SVM', 'HyperParameters': 'best_function: rbf', 'FeatureEliminationMethod': 'RFEFeatureElimination'}

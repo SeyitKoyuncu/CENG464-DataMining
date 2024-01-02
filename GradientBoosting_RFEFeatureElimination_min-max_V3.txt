@@ -1,0 +1,225 @@
+{'Accuracy': 0.7713347921225383, 'F1': 0.7713791367927116, 'Recall': 0.7713347921225383, 'Precision': 0.7727704307548802, 'Mcc': 0.543997328413067, 'Auc_score': 0.8528101765896726, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.19354303, 0.82896717, 0.80128491, ..., 0.41699156, 0.71987593,
+       0.76501308]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.774070021881838, 'F1': 0.7739460077624623, 'Recall': 0.774070021881838, 'Precision': 0.7745278430085363, 'Mcc': 0.5485467921414274, 'Auc_score': 0.8544823912470971, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.36123715, 0.47675361, 0.6270914 , ..., 0.76265669, 0.74144348,
+       0.80181051]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.776258205689278, 'F1': 0.7762764873102221, 'Recall': 0.776258205689278, 'Precision': 0.7763732845435768, 'Mcc': 0.5525358846406654, 'Auc_score': 0.8520494978487787, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.77956134, 0.69827679, 0.23761843, ..., 0.78607731, 0.70924074,
+       0.81520144]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7729759299781181, 'F1': 0.7730426003537835, 'Recall': 0.7729759299781181, 'Precision': 0.773165278892571, 'Mcc': 0.5449291814382099, 'Auc_score': 0.8461716708928845, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.13372074, 0.08544349, 0.5973017 , ..., 0.80040476, 0.77884737,
+       0.6394305 ]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7483588621444202, 'F1': 0.748239531247694, 'Recall': 0.7483588621444202, 'Precision': 0.7489886464050477, 'Mcc': 0.49739055308216096, 'Auc_score': 0.8256218726806962, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.50049334, 0.28179763, 0.47896887, ..., 0.32577059, 0.4654216 ,
+       0.65417401]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7713347921225383, 'F1': 0.7713791367927116, 'Recall': 0.7713347921225383, 'Precision': 0.7727704307548802, 'Mcc': 0.543997328413067, 'Auc_score': 0.8528101765896726, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.19354303, 0.82896717, 0.80128491, ..., 0.41699156, 0.71987593,
+       0.76501308]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.774070021881838, 'F1': 0.7739460077624623, 'Recall': 0.774070021881838, 'Precision': 0.7745278430085363, 'Mcc': 0.5485467921414274, 'Auc_score': 0.8544823912470971, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.36123715, 0.47675361, 0.6270914 , ..., 0.76265669, 0.74144348,
+       0.80181051]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.776258205689278, 'F1': 0.7762764873102221, 'Recall': 0.776258205689278, 'Precision': 0.7763732845435768, 'Mcc': 0.5525358846406654, 'Auc_score': 0.8520494978487787, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.77956134, 0.69827679, 0.23761843, ..., 0.78607731, 0.70924074,
+       0.81520144]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7729759299781181, 'F1': 0.7730426003537835, 'Recall': 0.7729759299781181, 'Precision': 0.773165278892571, 'Mcc': 0.5449291814382099, 'Auc_score': 0.8461716708928845, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.13372074, 0.08544349, 0.5973017 , ..., 0.80040476, 0.77884737,
+       0.6394305 ]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7483588621444202, 'F1': 0.748239531247694, 'Recall': 0.7483588621444202, 'Precision': 0.7489886464050477, 'Mcc': 0.49739055308216096, 'Auc_score': 0.8256218726806962, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.50049334, 0.28179763, 0.47896887, ..., 0.32577059, 0.4654216 ,
+       0.65417401]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7713347921225383, 'F1': 0.7713791367927116, 'Recall': 0.7713347921225383, 'Precision': 0.7727704307548802, 'Mcc': 0.543997328413067, 'Auc_score': 0.8528101765896726, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.19354303, 0.82896717, 0.80128491, ..., 0.41699156, 0.71987593,
+       0.76501308]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.774070021881838, 'F1': 0.7739460077624623, 'Recall': 0.774070021881838, 'Precision': 0.7745278430085363, 'Mcc': 0.5485467921414274, 'Auc_score': 0.8544823912470971, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.36123715, 0.47675361, 0.6270914 , ..., 0.76265669, 0.74144348,
+       0.80181051]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.776258205689278, 'F1': 0.7762764873102221, 'Recall': 0.776258205689278, 'Precision': 0.7763732845435768, 'Mcc': 0.5525358846406654, 'Auc_score': 0.8520494978487787, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.77956134, 0.69827679, 0.23761843, ..., 0.78607731, 0.70924074,
+       0.81520144]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7729759299781181, 'F1': 0.7730426003537835, 'Recall': 0.7729759299781181, 'Precision': 0.773165278892571, 'Mcc': 0.5449291814382099, 'Auc_score': 0.8461716708928845, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.13372074, 0.08544349, 0.5973017 , ..., 0.80040476, 0.77884737,
+       0.6394305 ]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7483588621444202, 'F1': 0.748239531247694, 'Recall': 0.7483588621444202, 'Precision': 0.7489886464050477, 'Mcc': 0.49739055308216096, 'Auc_score': 0.8256218726806962, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.50049334, 0.28179763, 0.47896887, ..., 0.32577059, 0.4654216 ,
+       0.65417401]), 'Model_Name': 'GradientBoosting', 'HyperParameters': 'best_n_estimators: 200, loss:deviance, learning_rate = 0.1, depth = 1  criterion = squared_error', 'FeatureEliminationMethod': 'RFEFeatureElimination'}

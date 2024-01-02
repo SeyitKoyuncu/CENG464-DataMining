@@ -1,0 +1,450 @@
+{'Accuracy': 0.5981996726677578, 'F1': 0.5640510005499525, 'Recall': 0.5981996726677578, 'Precision': 0.6156731657320338, 'Mcc': 0.3884588678173213, 'Auc_score': 0, 'y_true':       Q16
+8       0
+14      0
+15      0
+17      0
+23      1
+...   ...
+6090    1
+6100    2
+6102    0
+6103    1
+6104    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.24386725, 0.29953216, 0.08172961, ..., 0.15045946, 0.54285345,
+       0.26656121]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5826513911620295, 'F1': 0.5568842611455761, 'Recall': 0.5826513911620295, 'Precision': 0.5729313138604722, 'Mcc': 0.35460950754582604, 'Auc_score': 0, 'y_true':       Q16
+12      1
+19      0
+25      0
+26      1
+30      0
+...   ...
+6092    0
+6095    2
+6098    0
+6105    0
+6107    3
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.45207105, 0.28241077, 0.42648965, ..., 0.02858598, 0.25746138,
+       0.4544236 ]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5769230769230769, 'F1': 0.5461990668255912, 'Recall': 0.5769230769230769, 'Precision': 0.5491171019303739, 'Mcc': 0.33971290548286914, 'Auc_score': 0, 'y_true':       Q16
+0       0
+6       0
+7       0
+18      0
+22      0
+...   ...
+6077    0
+6081    0
+6089    0
+6101    2
+6106    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.12463275, 0.01035103, 0.02142375, ..., 0.0724525 , 0.32773843,
+       0.47542813]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6036036036036037, 'F1': 0.5735690125224522, 'Recall': 0.6036036036036037, 'Precision': 0.5873695537974194, 'Mcc': 0.36866902891428716, 'Auc_score': 0, 'y_true':       Q16
+1       3
+2       0
+10      0
+11      3
+13      0
+...   ...
+6083    1
+6088    1
+6091    1
+6093    0
+6097    1
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.26092502, 0.04282163, 0.16194718, ..., 0.13369693, 0.26827212,
+       0.06490902]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5814905814905815, 'F1': 0.5443043010673203, 'Recall': 0.5814905814905815, 'Precision': 0.5685330629578257, 'Mcc': 0.34888601511610146, 'Auc_score': 0, 'y_true':       Q16
+3       2
+4       3
+5       1
+9       0
+16      0
+...   ...
+6085    2
+6087    2
+6094    0
+6096    2
+6099    2
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.13813668, 0.12654487, 0.31740196, ..., 0.05085638, 0.28140975,
+       0.32986378]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5981996726677578, 'F1': 0.5669729441846681, 'Recall': 0.5981996726677578, 'Precision': 0.6069414002192234, 'Mcc': 0.38862473348238175, 'Auc_score': 0, 'y_true':       Q16
+8       0
+14      0
+15      0
+17      0
+23      1
+...   ...
+6090    1
+6100    2
+6102    0
+6103    1
+6104    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.33982044, 0.33886115, 0.1342655 , ..., 0.12960692, 0.45518465,
+       0.21765571]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5842880523731587, 'F1': 0.5599075520254134, 'Recall': 0.5842880523731587, 'Precision': 0.5754691808416434, 'Mcc': 0.3579655494254178, 'Auc_score': 0, 'y_true':       Q16
+12      1
+19      0
+25      0
+26      1
+30      0
+...   ...
+6092    0
+6095    2
+6098    0
+6105    0
+6107    3
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.44291335, 0.28002749, 0.41420094, ..., 0.03047414, 0.25714165,
+       0.45275953]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5867430441898527, 'F1': 0.5585390804334819, 'Recall': 0.5867430441898527, 'Precision': 0.5639680976516807, 'Mcc': 0.3551369701277075, 'Auc_score': 0, 'y_true':       Q16
+0       0
+6       0
+7       0
+18      0
+22      0
+...   ...
+6077    0
+6081    0
+6089    0
+6101    2
+6106    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.09760842, 0.00833659, 0.0168539 , ..., 0.07774357, 0.31817665,
+       0.48811912]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6036036036036037, 'F1': 0.5755416978496476, 'Recall': 0.6036036036036037, 'Precision': 0.5802055377151126, 'Mcc': 0.36984968494054754, 'Auc_score': 0, 'y_true':       Q16
+1       3
+2       0
+10      0
+11      3
+13      0
+...   ...
+6083    1
+6088    1
+6091    1
+6093    0
+6097    1
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.26448494, 0.04081423, 0.16037095, ..., 0.11178967, 0.2676389 ,
+       0.06201112]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5937755937755937, 'F1': 0.5653383760900579, 'Recall': 0.5937755937755937, 'Precision': 0.5817357363920875, 'Mcc': 0.3688534552584497, 'Auc_score': 0, 'y_true':       Q16
+3       2
+4       3
+5       1
+9       0
+16      0
+...   ...
+6085    2
+6087    2
+6094    0
+6096    2
+6099    2
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.15455065, 0.14156168, 0.34781745, ..., 0.0449839 , 0.20700863,
+       0.28657327]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5949263502454992, 'F1': 0.5620609963179526, 'Recall': 0.5949263502454992, 'Precision': 0.6069200429690643, 'Mcc': 0.38355078946895754, 'Auc_score': 0, 'y_true':       Q16
+8       0
+14      0
+15      0
+17      0
+23      1
+...   ...
+6090    1
+6100    2
+6102    0
+6103    1
+6104    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.33672825, 0.33872585, 0.13443042, ..., 0.12616075, 0.45502532,
+       0.21577444]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5875613747954174, 'F1': 0.5640227600281587, 'Recall': 0.5875613747954174, 'Precision': 0.5876083935890353, 'Mcc': 0.36216901255486744, 'Auc_score': 0, 'y_true':       Q16
+12      1
+19      0
+25      0
+26      1
+30      0
+...   ...
+6092    0
+6095    2
+6098    0
+6105    0
+6107    3
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.45914626, 0.28296765, 0.41994613, ..., 0.03562829, 0.26897698,
+       0.45759754]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5785597381342062, 'F1': 0.5408939720979983, 'Recall': 0.5785597381342062, 'Precision': 0.5486315007667725, 'Mcc': 0.33683159223126935, 'Auc_score': 0, 'y_true':       Q16
+0       0
+6       0
+7       0
+18      0
+22      0
+...   ...
+6077    0
+6081    0
+6089    0
+6101    2
+6106    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.0732408 , 0.00863994, 0.01542107, ..., 0.10085734, 0.36329452,
+       0.49592749]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6068796068796068, 'F1': 0.578628035330163, 'Recall': 0.6068796068796068, 'Precision': 0.586927533129717, 'Mcc': 0.37594272055938655, 'Auc_score': 0, 'y_true':       Q16
+1       3
+2       0
+10      0
+11      3
+13      0
+...   ...
+6083    1
+6088    1
+6091    1
+6093    0
+6097    1
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.25505368, 0.03662218, 0.14781091, ..., 0.12461782, 0.27655302,
+       0.06736071]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5823095823095823, 'F1': 0.5462521737387448, 'Recall': 0.5823095823095823, 'Precision': 0.5750407465559909, 'Mcc': 0.3501640152782642, 'Auc_score': 0, 'y_true':       Q16
+3       2
+4       3
+5       1
+9       0
+16      0
+...   ...
+6085    2
+6087    2
+6094    0
+6096    2
+6099    2
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.12328648, 0.11284143, 0.28109821, ..., 0.05084282, 0.28964393,
+       0.33757821]), 'Model_Name': 'LogisticRegression', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5981996726677578, 'F1': 0.5640510005499525, 'Recall': 0.5981996726677578, 'Precision': 0.6156731657320338, 'Mcc': 0.3884588678173213, 'Auc_score': 0, 'y_true':       Q16
+8       0
+14      0
+15      0
+17      0
+23      1
+...   ...
+6090    1
+6100    2
+6102    0
+6103    1
+6104    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.24386725, 0.29953216, 0.08172961, ..., 0.15045946, 0.54285345,
+       0.26656121]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5826513911620295, 'F1': 0.5568842611455761, 'Recall': 0.5826513911620295, 'Precision': 0.5729313138604722, 'Mcc': 0.35460950754582604, 'Auc_score': 0, 'y_true':       Q16
+12      1
+19      0
+25      0
+26      1
+30      0
+...   ...
+6092    0
+6095    2
+6098    0
+6105    0
+6107    3
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.45207105, 0.28241077, 0.42648965, ..., 0.02858598, 0.25746138,
+       0.4544236 ]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5769230769230769, 'F1': 0.5461990668255912, 'Recall': 0.5769230769230769, 'Precision': 0.5491171019303739, 'Mcc': 0.33971290548286914, 'Auc_score': 0, 'y_true':       Q16
+0       0
+6       0
+7       0
+18      0
+22      0
+...   ...
+6077    0
+6081    0
+6089    0
+6101    2
+6106    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.12463275, 0.01035103, 0.02142375, ..., 0.0724525 , 0.32773843,
+       0.47542813]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6036036036036037, 'F1': 0.5735690125224522, 'Recall': 0.6036036036036037, 'Precision': 0.5873695537974194, 'Mcc': 0.36866902891428716, 'Auc_score': 0, 'y_true':       Q16
+1       3
+2       0
+10      0
+11      3
+13      0
+...   ...
+6083    1
+6088    1
+6091    1
+6093    0
+6097    1
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.26092502, 0.04282163, 0.16194718, ..., 0.13369693, 0.26827212,
+       0.06490902]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5814905814905815, 'F1': 0.5443043010673203, 'Recall': 0.5814905814905815, 'Precision': 0.5685330629578257, 'Mcc': 0.34888601511610146, 'Auc_score': 0, 'y_true':       Q16
+3       2
+4       3
+5       1
+9       0
+16      0
+...   ...
+6085    2
+6087    2
+6094    0
+6096    2
+6099    2
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.13813668, 0.12654487, 0.31740196, ..., 0.05085638, 0.28140975,
+       0.32986378]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5965630114566285, 'F1': 0.5648717842429554, 'Recall': 0.5965630114566285, 'Precision': 0.6136500542065556, 'Mcc': 0.3864623238651628, 'Auc_score': 0, 'y_true':       Q16
+8       0
+14      0
+15      0
+17      0
+23      1
+...   ...
+6090    1
+6100    2
+6102    0
+6103    1
+6104    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.33393104, 0.33754821, 0.13083965, ..., 0.12469638, 0.45691829,
+       0.21503702]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5859247135842881, 'F1': 0.5599702608064575, 'Recall': 0.5859247135842881, 'Precision': 0.580667120210899, 'Mcc': 0.358836676488625, 'Auc_score': 0, 'y_true':       Q16
+12      1
+19      0
+25      0
+26      1
+30      0
+...   ...
+6092    0
+6095    2
+6098    0
+6105    0
+6107    3
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.4503335 , 0.28141416, 0.41765504, ..., 0.0314805 , 0.25305724,
+       0.44800661]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5867430441898527, 'F1': 0.5597857143012819, 'Recall': 0.5867430441898527, 'Precision': 0.5738284262423498, 'Mcc': 0.3544694017332151, 'Auc_score': 0, 'y_true':       Q16
+0       0
+6       0
+7       0
+18      0
+22      0
+...   ...
+6077    0
+6081    0
+6089    0
+6101    2
+6106    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.10224735, 0.00860254, 0.01727717, ..., 0.07728256, 0.31283387,
+       0.48696037]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6044226044226044, 'F1': 0.574843305286392, 'Recall': 0.6044226044226044, 'Precision': 0.5836960888581011, 'Mcc': 0.3708932961131593, 'Auc_score': 0, 'y_true':       Q16
+1       3
+2       0
+10      0
+11      3
+13      0
+...   ...
+6083    1
+6088    1
+6091    1
+6093    0
+6097    1
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.26601896, 0.04084087, 0.15915925, ..., 0.12562708, 0.26717945,
+       0.0616831 ]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5864045864045864, 'F1': 0.5522329802104415, 'Recall': 0.5864045864045864, 'Precision': 0.5796838133428616, 'Mcc': 0.35789156868669336, 'Auc_score': 0, 'y_true':       Q16
+3       2
+4       3
+5       1
+9       0
+16      0
+...   ...
+6085    2
+6087    2
+6094    0
+6096    2
+6099    2
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.13547546, 0.12360899, 0.31440847, ..., 0.04986492, 0.27502243,
+       0.31737379]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5957446808510638, 'F1': 0.5612413186628502, 'Recall': 0.5957446808510638, 'Precision': 0.6087514530594015, 'Mcc': 0.3846598116297599, 'Auc_score': 0, 'y_true':       Q16
+8       0
+14      0
+15      0
+17      0
+23      1
+...   ...
+6090    1
+6100    2
+6102    0
+6103    1
+6104    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.33501003, 0.33880992, 0.13443828, ..., 0.12631304, 0.44377945,
+       0.21607933]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5842880523731587, 'F1': 0.5590420220467515, 'Recall': 0.5842880523731587, 'Precision': 0.5766886064141888, 'Mcc': 0.35650560876693255, 'Auc_score': 0, 'y_true':       Q16
+12      1
+19      0
+25      0
+26      1
+30      0
+...   ...
+6092    0
+6095    2
+6098    0
+6105    0
+6107    3
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.45544532, 0.28344892, 0.42233897, ..., 0.03136111, 0.25210976,
+       0.44821984]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5826513911620295, 'F1': 0.5555032254295453, 'Recall': 0.5826513911620295, 'Precision': 0.5645281549180624, 'Mcc': 0.34825953386196135, 'Auc_score': 0, 'y_true':       Q16
+0       0
+6       0
+7       0
+18      0
+22      0
+...   ...
+6077    0
+6081    0
+6089    0
+6101    2
+6106    0
+
+[1222 rows x 1 columns], 'y_predict_proba': array([0.09702843, 0.00811762, 0.01648431, ..., 0.07815304, 0.31087446,
+       0.48840291]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6036036036036037, 'F1': 0.5736291587102627, 'Recall': 0.6036036036036037, 'Precision': 0.5841128021191454, 'Mcc': 0.36898910873599755, 'Auc_score': 0, 'y_true':       Q16
+1       3
+2       0
+10      0
+11      3
+13      0
+...   ...
+6083    1
+6088    1
+6091    1
+6093    0
+6097    1
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.25659453, 0.04031625, 0.15671776, ..., 0.12883326, 0.27391636,
+       0.0627806 ]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.5855855855855856, 'F1': 0.5512717072659228, 'Recall': 0.5855855855855856, 'Precision': 0.5784474241563604, 'Mcc': 0.35662865542097066, 'Auc_score': 0, 'y_true':       Q16
+3       2
+4       3
+5       1
+9       0
+16      0
+...   ...
+6085    2
+6087    2
+6094    0
+6096    2
+6099    2
+
+[1221 rows x 1 columns], 'y_predict_proba': array([0.1353461 , 0.12348664, 0.31479692, ..., 0.04997565, 0.27834725,
+       0.30691324]), 'Model_Name': 'LogisticRegression', 'HyperParameters': 'Not Trying HyperParameters', 'FeatureEliminationMethod': 'RFEFeatureElimination'}

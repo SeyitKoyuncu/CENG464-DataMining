@@ -1,0 +1,222 @@
+{'Accuracy': 0.6411378555798687, 'F1': 0.6398319084082684, 'Recall': 0.6411378555798687, 'Precision': 0.6470297762411051, 'Mcc': 0.2893046944496959, 'Auc_score': 0.666270929046502, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.00000000e+00, 1.00000000e+00, 1.00000000e+00, ...,
+       1.15900232e-05, 1.00000000e+00, 9.99999690e-01]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6444201312910285, 'F1': 0.6422007562670352, 'Recall': 0.6444201312910285, 'Precision': 0.6476503252944495, 'Mcc': 0.2917977518351807, 'Auc_score': 0.6651673489908785, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.00000000e+00, 1.00000000e+00, 1.00000000e+00, ...,
+       9.35573579e-08, 1.00000000e+00, 3.79810464e-01]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6608315098468271, 'F1': 0.66070644457495, 'Recall': 0.6608315098468271, 'Precision': 0.6618235722272864, 'Mcc': 0.3228064453571801, 'Auc_score': 0.6938464172854496, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 1., 1., 1.]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6553610503282276, 'F1': 0.6535781567975414, 'Recall': 0.6553610503282276, 'Precision': 0.6550025651605333, 'Mcc': 0.30641209708575634, 'Auc_score': 0.6865839192408176, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.        , 1.        , 1.        , ..., 1.        , 0.99999999,
+       0.99999122]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6362144420131292, 'F1': 0.6351025088439239, 'Recall': 0.6362144420131292, 'Precision': 0.6382194882840702, 'Mcc': 0.2745967974677035, 'Auc_score': 0.6561672532260767, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.        , 1.        , 1.        , ..., 1.        , 0.00107946,
+       0.99660961]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6416849015317286, 'F1': 0.6393076145106857, 'Recall': 0.6405908096280087, 'Precision': 0.6464049156442372, 'Mcc': 0.2881211514686872, 'Auc_score': 0.6660893412137259, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.00000000e+00, 1.00000000e+00, 1.00000000e+00, ...,
+       1.29647847e-05, 1.00000000e+00, 9.99999677e-01]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6444201312910285, 'F1': 0.6422007562670352, 'Recall': 0.6444201312910285, 'Precision': 0.6476503252944495, 'Mcc': 0.2917977518351807, 'Auc_score': 0.6649680384974503, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.00000000e+00, 1.00000000e+00, 1.00000000e+00, ...,
+       8.51207566e-08, 1.00000000e+00, 3.61576464e-01]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6591903719912473, 'F1': 0.6590725574827542, 'Recall': 0.6591903719912473, 'Precision': 0.6601499090838637, 'Mcc': 0.31948548713810326, 'Auc_score': 0.6937380479387671, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 1., 1., 1.]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6548140043763676, 'F1': 0.6531156418627998, 'Recall': 0.6548140043763676, 'Precision': 0.6544101824578685, 'Mcc': 0.30532978140335126, 'Auc_score': 0.6862297333640694, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.        , 1.        , 1.        , ..., 1.        , 0.99999999,
+       0.99999087]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6362144420131292, 'F1': 0.6351463013785893, 'Recall': 0.6362144420131292, 'Precision': 0.6381463561662041, 'Mcc': 0.2745206354000293, 'Auc_score': 0.655946395652278, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.00000000e+00, 1.00000000e+00, 1.00000000e+00, ...,
+       1.00000000e+00, 9.94091598e-04, 9.96994494e-01]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6416849015317286, 'F1': 0.6403560595168646, 'Recall': 0.6416849015317286, 'Precision': 0.6476553882315783, 'Mcc': 0.2904889261596895, 'Auc_score': 0.6666353033116108, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.00000000e+00, 1.00000000e+00, 1.00000000e+00, ...,
+       1.37343379e-05, 1.00000000e+00, 9.99999686e-01]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6438730853391685, 'F1': 0.6416190910426052, 'Recall': 0.6438730853391685, 'Precision': 0.6471387777935403, 'Mcc': 0.2907365376529295, 'Auc_score': 0.6653295506236683, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.00000000e+00, 1.00000000e+00, 1.00000000e+00, ...,
+       8.90298314e-08, 1.00000000e+00, 2.76497598e-01]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6591903719912473, 'F1': 0.6590876565198751, 'Recall': 0.6591903719912473, 'Precision': 0.6600946223566222, 'Mcc': 0.3194164037314074, 'Auc_score': 0.6942888755572638, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1., 1., 1., ..., 1., 1., 1.]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6548140043763676, 'F1': 0.6530576177286496, 'Recall': 0.6548140043763676, 'Precision': 0.6544343873658478, 'Mcc': 0.3053117336927076, 'Auc_score': 0.6867183898109729, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.        , 1.        , 1.        , ..., 1.        , 0.99999999,
+       0.99999109]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.637308533916849, 'F1': 0.6362436057353453, 'Recall': 0.637308533916849, 'Precision': 0.6392539612999485, 'Mcc': 0.2767217904101233, 'Auc_score': 0.656565874212933, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([1.        , 1.        , 1.        , ..., 1.        , 0.00103992,
+       0.9971053 ]), 'Model_Name': 'Multinomial Naive Bayes', 'HyperParameters': 'best_alpha: 0.2', 'FeatureEliminationMethod': 'RFEFeatureElimination'}

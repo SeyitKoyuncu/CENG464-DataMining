@@ -1,0 +1,220 @@
+{'Accuracy': 0.706111833550065, 'F1': 0.7042246737430047, 'Recall': 0.706111833550065, 'Precision': 0.7040232721359826, 'Mcc': 0.6087312081811844, 'Auc_score': 0, 'y_true':        Q16
+0        0
+3        2
+8        0
+10       0
+14       0
+...    ...
+11513    3
+11516    3
+11519    3
+11524    3
+11530    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.        , 0.        , 0.        , ..., 0.01027397, 0.        ,
+       0.09756098]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7091460771564803, 'F1': 0.7071253970325585, 'Recall': 0.7091460771564803, 'Precision': 0.7074299094322428, 'Mcc': 0.6126940843027726, 'Auc_score': 0, 'y_true':        Q16
+12       1
+17       0
+20       2
+23       1
+30       0
+...    ...
+11492    3
+11501    3
+11503    3
+11518    3
+11527    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0., 1., 0., ..., 0., 0., 0.]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7103209019947961, 'F1': 0.7089697458186393, 'Recall': 0.7103209019947961, 'Precision': 0.7090773700680926, 'Mcc': 0.6141210870349424, 'Auc_score': 0, 'y_true':        Q16
+15       0
+26       1
+27       0
+28       0
+34       1
+...    ...
+11521    3
+11522    3
+11525    3
+11528    3
+11531    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.        , 0.        , 1.        , ..., 0.        , 0.00740741,
+       0.08571429]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.694275802254987, 'F1': 0.6917769939839414, 'Recall': 0.694275802254987, 'Precision': 0.6911549213652427, 'Mcc': 0.5929745873339811, 'Auc_score': 0, 'y_true':        Q16
+2        0
+6        0
+7        0
+18       0
+22       0
+...    ...
+11495    3
+11507    3
+11508    3
+11523    3
+11526    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.        , 0.        , 0.        , ..., 0.04651163, 0.        ,
+       1.        ]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.696877710320902, 'F1': 0.6946297779637685, 'Recall': 0.696877710320902, 'Precision': 0.6934299876884149, 'Mcc': 0.5961360633689674, 'Auc_score': 0, 'y_true':        Q16
+1        3
+4        3
+5        1
+9        0
+11       3
+...    ...
+11514    3
+11515    3
+11517    3
+11520    3
+11529    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([1.    , 0.    , 1.    , ..., 0.3125, 0.    , 0.    ]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7087126137841352, 'F1': 0.7066897654676246, 'Recall': 0.7087126137841352, 'Precision': 0.7066105858026485, 'Mcc': 0.612288938953327, 'Auc_score': 0, 'y_true':        Q16
+0        0
+3        2
+8        0
+10       0
+14       0
+...    ...
+11513    3
+11516    3
+11519    3
+11524    3
+11530    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.        , 0.        , 0.        , ..., 0.01027397, 0.        ,
+       0.09756098]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7043779800606849, 'F1': 0.7019521840436195, 'Recall': 0.7043779800606849, 'Precision': 0.7013169187778749, 'Mcc': 0.6060603329919838, 'Auc_score': 0, 'y_true':        Q16
+12       1
+17       0
+20       2
+23       1
+30       0
+...    ...
+11492    3
+11501    3
+11503    3
+11518    3
+11527    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0., 1., 0., ..., 0., 0., 0.]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7059843885516045, 'F1': 0.7040027547058137, 'Recall': 0.7059843885516045, 'Precision': 0.7044727013889667, 'Mcc': 0.6086027498966298, 'Auc_score': 0, 'y_true':        Q16
+15       0
+26       1
+27       0
+28       0
+34       1
+...    ...
+11521    3
+11522    3
+11525    3
+11528    3
+11531    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.        , 0.        , 1.        , ..., 0.        , 0.        ,
+       0.08571429]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6925411968777103, 'F1': 0.6903198368062456, 'Recall': 0.6925411968777103, 'Precision': 0.689776990384286, 'Mcc': 0.5905864337072084, 'Auc_score': 0, 'y_true':        Q16
+2        0
+6        0
+7        0
+18       0
+22       0
+...    ...
+11495    3
+11507    3
+11508    3
+11523    3
+11526    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.        , 0.        , 0.        , ..., 0.04651163, 0.        ,
+       0.        ]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6999132697311362, 'F1': 0.6977482901682315, 'Recall': 0.6999132697311362, 'Precision': 0.696568903938706, 'Mcc': 0.6001185037428245, 'Auc_score': 0, 'y_true':        Q16
+1        3
+4        3
+5        1
+9        0
+11       3
+...    ...
+11514    3
+11515    3
+11517    3
+11520    3
+11529    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([1.    , 0.    , 1.    , ..., 0.3125, 0.    , 0.    ]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7065452969224101, 'F1': 0.704744325437332, 'Recall': 0.7065452969224101, 'Precision': 0.7049070161219184, 'Mcc': 0.6094287610398651, 'Auc_score': 0, 'y_true':        Q16
+0        0
+3        2
+8        0
+10       0
+14       0
+...    ...
+11513    3
+11516    3
+11519    3
+11524    3
+11530    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([1.        , 0.        , 0.        , ..., 0.01027397, 0.        ,
+       0.09756098]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.706111833550065, 'F1': 0.7038877639166512, 'Recall': 0.706111833550065, 'Precision': 0.7032585582403612, 'Mcc': 0.6082820170260559, 'Auc_score': 0, 'y_true':        Q16
+12       1
+17       0
+20       2
+23       1
+30       0
+...    ...
+11492    3
+11501    3
+11503    3
+11518    3
+11527    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.        , 1.        , 0.        , ..., 0.03571429, 0.        ,
+       0.        ]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6999132697311362, 'F1': 0.697708531102942, 'Recall': 0.6999132697311362, 'Precision': 0.6983979274130794, 'Mcc': 0.6006194802399408, 'Auc_score': 0, 'y_true':        Q16
+15       0
+26       1
+27       0
+28       0
+34       1
+...    ...
+11521    3
+11522    3
+11525    3
+11528    3
+11531    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.        , 0.        , 1.        , ..., 0.        , 0.        ,
+       0.08571429]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.6873373807458804, 'F1': 0.684482681613126, 'Recall': 0.6873373807458804, 'Precision': 0.683606504974003, 'Mcc': 0.5837376603297704, 'Auc_score': 0, 'y_true':        Q16
+2        0
+6        0
+7        0
+18       0
+22       0
+...    ...
+11495    3
+11507    3
+11508    3
+11523    3
+11526    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([1.        , 0.        , 0.        , ..., 0.04651163, 0.        ,
+       1.        ]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7055507372072853, 'F1': 0.702912426954992, 'Recall': 0.7055507372072853, 'Precision': 0.701877154292455, 'Mcc': 0.6077880144975393, 'Auc_score': 0, 'y_true':        Q16
+1        3
+4        3
+5        1
+9        0
+11       3
+...    ...
+11514    3
+11515    3
+11517    3
+11520    3
+11529    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([1.    , 0.    , 1.    , ..., 0.3125, 0.    , 0.    ]), 'Model_Name': 'Decision Tree', 'HyperParameters': 'best_max_depth: 17', 'FeatureEliminationMethod': 'RFEFeatureElimination'}

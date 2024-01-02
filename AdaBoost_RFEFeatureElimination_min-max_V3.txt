@@ -1,0 +1,225 @@
+{'Accuracy': 0.774617067833698, 'F1': 0.7746823668903969, 'Recall': 0.774617067833698, 'Precision': 0.7756453694838509, 'Mcc': 0.550067115216765, 'Auc_score': 0.8516439392214137, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([2.44983156e-04, 7.21555906e-01, 6.22935902e-01, ...,
+       5.43250397e-01, 6.10241422e-01, 6.42717132e-01]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7773522975929978, 'F1': 0.7773181092575763, 'Recall': 0.7773522975929978, 'Precision': 0.7774519577233517, 'Mcc': 0.554775457585628, 'Auc_score': 0.8487323134381958, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.34214573, 0.50555519, 0.5009258 , ..., 0.71839024, 0.63960528,
+       0.6159869 ]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7921225382932167, 'F1': 0.7921076009190228, 'Recall': 0.7921225382932167, 'Precision': 0.792109737344424, 'Mcc': 0.584062991443352, 'Auc_score': 0.8631582539722454, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.60596079, 0.675454  , 0.00074387, ..., 0.62779349, 0.59094363,
+       0.69123615]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7675054704595186, 'F1': 0.7675386086279747, 'Recall': 0.7675054704595186, 'Precision': 0.7675832404672902, 'Mcc': 0.5337632181023596, 'Auc_score': 0.8369472299062548, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([2.40541135e-04, 1.00411575e-03, 3.64200461e-01, ...,
+       6.57921320e-01, 6.27795994e-01, 5.70638739e-01]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7669584245076586, 'F1': 0.7668479137206905, 'Recall': 0.7669584245076586, 'Precision': 0.7676274692465798, 'Mcc': 0.5346257086232176, 'Auc_score': 0.8365324762383586, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.40921195, 0.3802288 , 0.43993469, ..., 0.57504289, 0.58067957,
+       0.50596629]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.774070021881838, 'F1': 0.7741339233159645, 'Recall': 0.774070021881838, 'Precision': 0.7751361645690944, 'Mcc': 0.5490193199710783, 'Auc_score': 0.8505939660101137, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([2.44983156e-04, 7.21555906e-01, 6.22935902e-01, ...,
+       5.43250397e-01, 6.10241422e-01, 6.42717132e-01]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7800875273522976, 'F1': 0.7800506646293921, 'Recall': 0.7800875273522976, 'Precision': 0.7802006559466402, 'Mcc': 0.5602586831503001, 'Auc_score': 0.8497079173549761, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.34446629, 0.508128  , 0.50349905, ..., 0.63258206, 0.64197454,
+       0.64004776]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7921225382932167, 'F1': 0.7921076009190228, 'Recall': 0.7921225382932167, 'Precision': 0.792109737344424, 'Mcc': 0.584062991443352, 'Auc_score': 0.8631582539722454, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.60596079, 0.675454  , 0.00074387, ..., 0.62779349, 0.59094363,
+       0.69123615]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.776258205689278, 'F1': 0.7761761488704403, 'Recall': 0.776258205689278, 'Precision': 0.776150434331497, 'Mcc': 0.5509168708989179, 'Auc_score': 0.8475800099892423, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([9.72105248e-07, 9.44874489e-07, 4.10026205e-01, ...,
+       5.61087931e-01, 6.06377171e-01, 5.82983939e-01]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7636761487964989, 'F1': 0.76355247311467, 'Recall': 0.7636761487964989, 'Precision': 0.764397597012828, 'Mcc': 0.528116324758797, 'Auc_score': 0.8307752160693338, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.51560105, 0.44255816, 0.56381204, ..., 0.61795651, 0.5452469 ,
+       0.53954044]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7735229759299781, 'F1': 0.7734828521544957, 'Recall': 0.7735229759299781, 'Precision': 0.7759828917393033, 'Mcc': 0.5495767188532934, 'Auc_score': 0.8495511843961516, 'y_true':       Q16
+0       0
+8       0
+12      1
+14      0
+17      0
+...   ...
+9107    1
+9115    1
+9129    1
+9133    1
+9138    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.2352324 , 0.64605048, 0.55022515, ..., 0.5670028 , 0.64672528,
+       0.62526536]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.776258205689278, 'F1': 0.776223849352208, 'Recall': 0.776258205689278, 'Precision': 0.7763572931318122, 'Mcc': 0.5525865596726579, 'Auc_score': 0.8575480619598266, 'y_true':       Q16
+3       0
+15      0
+26      1
+29      1
+34      1
+...   ...
+9100    1
+9104    1
+9125    1
+9130    1
+9136    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.22147399, 0.47150195, 0.69531643, ..., 0.59937053, 0.62699539,
+       0.60784297]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7915754923413567, 'F1': 0.7915932705575018, 'Recall': 0.7915754923413567, 'Precision': 0.7917176444510605, 'Mcc': 0.5832125695249322, 'Auc_score': 0.8615087647451165, 'y_true':       Q16
+24      0
+25      0
+32      0
+43      0
+49      0
+...   ...
+9117    1
+9131    1
+9132    1
+9135    1
+9139    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.59951131, 0.60367902, 0.42779407, ..., 0.62982188, 0.60228524,
+       0.72158131]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7850109409190372, 'F1': 0.7850044229368756, 'Recall': 0.7850109409190372, 'Precision': 0.7849983754713423, 'Mcc': 0.5687057213741501, 'Auc_score': 0.8583262496157984, 'y_true':       Q16
+6       0
+7       0
+11      0
+13      0
+16      0
+...   ...
+9119    1
+9123    1
+9124    1
+9128    1
+9134    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([6.16768554e-04, 3.97704458e-04, 4.93238140e-01, ...,
+       6.19764700e-01, 6.74212880e-01, 6.11432341e-01]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7735229759299781, 'F1': 0.7733545152866091, 'Recall': 0.7735229759299781, 'Precision': 0.7745393237513278, 'Mcc': 0.5481113518494661, 'Auc_score': 0.8531530560942325, 'y_true':       Q16
+1       0
+2       0
+4       0
+5       1
+9       0
+...   ...
+9121    1
+9122    1
+9126    1
+9127    1
+9137    1
+
+[1828 rows x 1 columns], 'y_predict_proba': array([0.34062943, 0.24149154, 0.37963142, ..., 0.59773191, 0.55905161,
+       0.57853663]), 'Model_Name': 'Ada Boost', 'HyperParameters': 'best_max_depth: 5', 'FeatureEliminationMethod': 'RFEFeatureElimination'}

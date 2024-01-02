@@ -1,0 +1,75 @@
+{'Accuracy': 0.716514954486346, 'F1': 0.654465060572729, 'Recall': 0.658864325964456, 'Precision': 0.6542831222611893, 'Mcc': 0.5463413591055803, 'Auc_score': 0, 'y_true':        Q16
+0        0
+3        2
+8        0
+10       0
+14       0
+...    ...
+11513    3
+11516    3
+11519    3
+11524    3
+11530    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.81056852, 0.        , 0.        , ..., 0.        , 0.        ,
+       0.        ]), 'Model_Name': 'KNN', 'HyperParameters': 'n_neighbor:4, metric:cosine, n_feature:70', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7030775899436498, 'F1': 0.6508822503838813, 'Recall': 0.6549631556133507, 'Precision': 0.6527122039631844, 'Mcc': 0.5418450264922695, 'Auc_score': 0, 'y_true':        Q16
+12       1
+17       0
+20       2
+23       1
+30       0
+...    ...
+11492    3
+11501    3
+11503    3
+11518    3
+11527    3
+
+[2307 rows x 1 columns], 'y_predict_proba': array([0.12483264, 0.        , 0.        , ..., 0.        , 0.        ,
+       0.        ]), 'Model_Name': 'KNN', 'HyperParameters': 'n_neighbor:2, metric:manhattan, n_feature:70', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.707285342584562, 'F1': 0.636708192200289, 'Recall': 0.6448395490026019, 'Precision': 0.6352959798819681, 'Mcc': 0.5285087804929368, 'Auc_score': 0, 'y_true':        Q16
+15       0
+26       1
+27       0
+28       0
+34       1
+...    ...
+11521    3
+11522    3
+11525    3
+11528    3
+11531    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.09686045, 0.67785319, 0.58407504, ..., 0.        , 0.        ,
+       0.        ]), 'Model_Name': 'KNN', 'HyperParameters': 'n_neighbor:1, metric:cosine, n_feature:70', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.694275802254987, 'F1': 0.6382038541868439, 'Recall': 0.6461405030355594, 'Precision': 0.6358256485595394, 'Mcc': 0.5296758053526862, 'Auc_score': 0, 'y_true':        Q16
+2        0
+6        0
+7        0
+18       0
+22       0
+...    ...
+11495    3
+11507    3
+11508    3
+11523    3
+11526    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.        , 0.79416817, 0.82681723, ..., 0.        , 0.        ,
+       0.42180218]), 'Model_Name': 'KNN', 'HyperParameters': 'n_neighbor:1, metric:cosine, n_feature:70', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
+{'Accuracy': 0.7215958369470945, 'F1': 0.6602314671000074, 'Recall': 0.6665221162185603, 'Precision': 0.6581525205154047, 'Mcc': 0.5564075594657275, 'Auc_score': 0, 'y_true':        Q16
+1        3
+4        3
+5        1
+9        0
+11       3
+...    ...
+11514    3
+11515    3
+11517    3
+11520    3
+11529    3
+
+[2306 rows x 1 columns], 'y_predict_proba': array([0.        , 0.        , 0.79600796, ..., 0.        , 0.        ,
+       0.        ]), 'Model_Name': 'KNN', 'HyperParameters': 'n_neighbor:2, metric:manhattan, n_feature:70', 'FeatureEliminationMethod': 'RFEFeatureElimination'}
