@@ -1,1 +1,0 @@
-{'Accuracy': 61.62409954158481, 'Model_Name': 'PyTorch', 'HyperParameters': 'Model: PyTorch Best Epoch: 11556 | Best Loss: 3.03348 | Best Acc: 61.62%  with ChiSquareFeatureElimination, min-max,CrossEntropyLoss, len = 70 and Adam, lr = 0.001', 'FeatureEliminationMethod': 'ChiSquareFeatureElimination'}

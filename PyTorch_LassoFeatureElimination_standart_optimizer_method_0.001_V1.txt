@@ -1,1 +1,0 @@
-{'Accuracy': 62.14800261951539, 'Model_Name': 'PyTorch', 'HyperParameters': 'Model: PyTorch Best Epoch: 2718 | Best Loss: 1.56124 | Best Acc: 62.15%  with LassoFeatureElimination, standart,CrossEntropyLoss, len = 53 and Adam, lr = 0.001', 'FeatureEliminationMethod': 'LassoFeatureElimination'}
